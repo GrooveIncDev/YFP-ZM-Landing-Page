@@ -1,2 +1,2 @@
 # YFP-ZM-Landing-Page
-Zamnia
+Zambian landing page
